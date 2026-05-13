@@ -9,5 +9,6 @@ The goal of this repository is to showcase my work in understanding and building
 - **[assignment_1](./assignment_1)**: Building and training a single-layer neural network (Softmax classifier) on the CIFAR-10 dataset.
 - **[assignment_2](./assignment_2)**: Extending the architecture to a 2-layer Multi-Layer Perceptron (MLP) and exploring advanced training techniques such as cyclical learning rates and hyperparameter tuning.
 - **[assignment_3](./assignment_3)**: Implementing Convolutional Neural Networks (CNNs), including an efficient implementation of the convolution operation, and applying them to the CIFAR-10 dataset.
+- **[assignment_4](./assignment_4)**: Implementing a vanilla Recurrent Neural Network (RNN) from scratch with Backpropagation Through Time (BPTT) and Adam optimization to synthesize text character by character.
 
 *Note: The assignment PDFs are proprietary to KTH and have been omitted from this public repository. Only my code, implementation, and results are included.*
