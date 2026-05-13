@@ -1,6 +1,6 @@
-# Deep Learning KTH Assignments
+# Deep Learning Assignments
 
-This repository contains my implementation of the programming assignments for the Deep Learning course at KTH Royal Institute of Technology.
+This repository contains my implementation of the programming assignments for the Deep Learning course of my university.
 
 The goal of this repository is to showcase my work in understanding and building fundamental neural network architectures from scratch using Python and NumPy, while leveraging PyTorch strictly for verification of gradient computations. The repository contains the code and results divided into distinct folders.
 
