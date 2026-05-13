@@ -2,7 +2,7 @@
 
 This repository contains my implementation of the programming assignments for the Deep Learning course at KTH Royal Institute of Technology.
 
-The goal of this repository is to showcase my work in understanding and building fundamental neural network architectures from scratch using Python and NumPy, while leveraging PyTorch strictly for verification of gradient computations. The repository contains the code and results for the assignments, divided into distinct folders.
+The goal of this repository is to showcase my work in understanding and building fundamental neural network architectures from scratch using Python and NumPy, while leveraging PyTorch strictly for verification of gradient computations. The repository contains the code and results divided into distinct folders.
 
 ## Repository Structure
 
